@@ -1,0 +1,12 @@
+C:\Users\emil.r.c.tabirao\source\repos\Appointment\oa.models\bin\Debug\oa.models.dll
+C:\Users\emil.r.c.tabirao\source\repos\Appointment\oa.models\bin\Debug\oa.models.pdb
+C:\Users\emil.r.c.tabirao\source\repos\Appointment\oa.models\bin\Debug\oa.db.dll
+C:\Users\emil.r.c.tabirao\source\repos\Appointment\oa.models\bin\Debug\EntityFramework.dll
+C:\Users\emil.r.c.tabirao\source\repos\Appointment\oa.models\bin\Debug\oa.db.pdb
+C:\Users\emil.r.c.tabirao\source\repos\Appointment\oa.models\bin\Debug\oa.db.dll.config
+C:\Users\emil.r.c.tabirao\source\repos\Appointment\oa.models\bin\Debug\EntityFramework.xml
+C:\Users\emil.r.c.tabirao\source\repos\Appointment\oa.models\obj\Debug\oa.models.csprojAssemblyReference.cache
+C:\Users\emil.r.c.tabirao\source\repos\Appointment\oa.models\obj\Debug\oa.models.csproj.CoreCompileInputs.cache
+C:\Users\emil.r.c.tabirao\source\repos\Appointment\oa.models\obj\Debug\oa.models.csproj.CopyComplete
+C:\Users\emil.r.c.tabirao\source\repos\Appointment\oa.models\obj\Debug\oa.models.dll
+C:\Users\emil.r.c.tabirao\source\repos\Appointment\oa.models\obj\Debug\oa.models.pdb
